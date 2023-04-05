@@ -1,0 +1,14 @@
+John Wick 4: Baba Yaga,2023,150,Chad Stahelski
+Dungeons & Dragons: Honra Entre Rebeldes,2023,128,John Francis Daley
+Avatar: O Caminho da Água,2022,186,James Cameron
+Um Sonho de Liberdade,1994,133,Frank Darabont
+O Poderoso Chefão,1972,153,Francis Ford Coppola
+Batman: O Cavaleiro das Trevas,2008,140,Christopher Nolan
+
+Serie
+Lost,2000,45,10,25,30
+The Last of Us,2023,46,10,16,50
+Breaking Bad,2008,47,10,10,45
+Supernatural,2000,48,10,23,60
+Chernobyl,2019,49,10,5,35
+Friends,1994,50,10,15,23

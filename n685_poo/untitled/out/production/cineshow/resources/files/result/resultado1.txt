@@ -1,0 +1,12 @@
+Film { name=John Wick 4: Baba Yaga, releaseYear=2023, totalRatings=3, durationInMinutes=150, director=Chad Stahelski }
+Film { name=Dungeons & Dragons: Honra Entre Rebeldes, releaseYear=2023, totalRatings=3, durationInMinutes=128, director=John Francis Daley }
+Film { name=Avatar: O Caminho da Água, releaseYear=2022, totalRatings=3, durationInMinutes=186, director=James Cameron }
+Film { name=Um Sonho de Liberdade, releaseYear=1994, totalRatings=3, durationInMinutes=133, director=Frank Darabont }
+Film { name=O Poderoso Chefão, releaseYear=1972, totalRatings=3, durationInMinutes=153, director=Francis Ford Coppola }
+Film { name=Batman: O Cavaleiro das Trevas, releaseYear=2008, totalRatings=3, durationInMinutes=140, director=Christopher Nolan }
+Series { name=Lost, releaseYear=2000, totalRatings=3, durationInMinutes=45, seasons=10, active=false, episodesBySeason=25, minutesPerEpisode=30}
+Series { name=The Last of Us, releaseYear=2023, totalRatings=3, durationInMinutes=46, seasons=10, active=false, episodesBySeason=16, minutesPerEpisode=50}
+Series { name=Breaking Bad, releaseYear=2008, totalRatings=3, durationInMinutes=47, seasons=10, active=false, episodesBySeason=10, minutesPerEpisode=45}
+Series { name=Supernatural, releaseYear=2000, totalRatings=3, durationInMinutes=48, seasons=10, active=false, episodesBySeason=23, minutesPerEpisode=60}
+Series { name=Chernobyl, releaseYear=2019, totalRatings=3, durationInMinutes=49, seasons=10, active=false, episodesBySeason=5, minutesPerEpisode=35}
+Series { name=Friends, releaseYear=1994, totalRatings=3, durationInMinutes=50, seasons=10, active=false, episodesBySeason=15, minutesPerEpisode=23}
